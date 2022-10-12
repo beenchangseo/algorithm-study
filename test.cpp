@@ -35,4 +35,4 @@ int main() {
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
   "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-ehapk%40probit-push-test.iam.gserviceaccount.com"
 }
-cPkF6Fm-T221zVohYEVeri:APA91bFC10ixEth1yUWhDOUoWzYINPx95cJocvQjj6DQ8N0riDHEif8HFbi25BQpHpX_LecjgIhA2t1hQbwzvz2mSvEv0Uto8se5dGSlC26jkHMs24Rwk8eylLF7Oykg4pT_7o7ijvgx
+d4vHMVWPSHCYvUuwsrK-0v:APA91bFef8BTs8XlfTrG-fSWeSGCxMJIp7OLgcKXY6G8ebKyekGZHWBOx1JFp8KPc30QfgMuM8MD5GqBC-9OgPxwsBnamfPdj8t6G-MmGWxf1fxGCoKYteS-CYdDLBJa6y7ZSsvIm461
